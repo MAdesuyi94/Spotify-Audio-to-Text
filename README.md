@@ -12,8 +12,7 @@ This project involves designing and implementing a GUI capable of extractingany 
 
 
 # Approach
-Team 3 has developed solutions on previous assignments that will help them on the development of this GUI. 
-Our execution strategy incorporates the use of Pandas, Matplotlib, Tkinter, deep learning with Tensorflow and Keras and python. We use REST API to communicate with Spotify and pull songs to a local directory; after the song is extracted out of Spotify the song is converted to text.
+The execution strategy incorporates the use of Pandas, Matplotlib, Tkinter, deep learning with Tensorflow and Keras and python. We use REST API to communicate with Spotify and pull songs to a local directory; after the song is extracted out of Spotify the song is converted to text.
 Sentiment analysis is performed when the user selects a song from their Spotify extraction and the song is translated into text, additionally by doing it so the user can review the song classification. 
 
 # Challenges 
