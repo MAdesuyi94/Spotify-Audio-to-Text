@@ -17,7 +17,7 @@ The execution strategy incorporates the use of Pandas, Yt_dlp, Spotipy, Google C
 Sentiment analysis is performed when the user selects a song from their Spotify extraction and the song is translated into text, additionally by doing it so the user can review the song classification. 
 
 # Challenges 
-•	Having to place the ffmpeg.exe file in the Scripts folder and declaring the environment variable to convert songs that are downloaded in users’ machine – See Appendix 1 
+•	Having to place the ffmpeg.exe file in the Scripts folder and declaring the environment variable to convert songs that are downloaded in users’ machine
 
 •	Finding the right parameters needed to get the best audio to text conversion
 
