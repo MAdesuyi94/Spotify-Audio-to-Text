@@ -42,7 +42,7 @@ The “GetSongs_and_Translate” python code incorporates many of the features o
 # Steps:
 
 ## 1: Open the GUI
-![Empty GUI}(https://github.com/MAdesuyi94/Spotify-Audio-to-Text/blob/main/Images/Empty%20GUI.PNG)
+![Empty GUI](https://github.com/MAdesuyi94/Spotify-Audio-to-Text/blob/main/Images/Empty%20GUI.PNG)
 
 ## 2: Copy your playlist link of interest from Spotify
 ![Spotify Screenshot](https://github.com/MAdesuyi94/Spotify-Audio-to-Text/blob/main/Images/Spotify%20Playlist.PNG)
