@@ -12,7 +12,8 @@ This project involves designing and implementing a GUI capable of extractingany 
 
 
 # Approach
-The execution strategy incorporates the use of Pandas, Matplotlib, Tkinter, deep learning with Tensorflow and Keras and python. We use REST API to communicate with Spotify and pull songs to a local directory; after the song is extracted out of Spotify the song is converted to text.
+The execution strategy incorporates the use of Pandas, Yt_dlp, Spotipy, Google Cloud, and Python. We use REST API to communicate with Spotify and pull songs to a local directory; after the song is extracted out of Spotify the song is converted to text.
+
 Sentiment analysis is performed when the user selects a song from their Spotify extraction and the song is translated into text, additionally by doing it so the user can review the song classification. 
 
 # Challenges 
@@ -37,3 +38,21 @@ The “GetSongs_and_Translate” python code incorporates many of the features o
 •	Delete the song from the cloud
 
 •	Delete the playlist from the computer
+
+# Steps:
+
+## 1: Open the GUI
+![Empty GUI}(https://github.com/MAdesuyi94/Spotify-Audio-to-Text/blob/main/Images/Empty%20GUI.PNG)
+
+## 2: Copy your playlist link of interest from Spotify
+![Spotify Screenshot](https://github.com/MAdesuyi94/Spotify-Audio-to-Text/blob/main/Images/Spotify%20Playlist.PNG)
+
+## 3: Click the "Get Songs" button in the GUI
+![Pulled Playlist](https://github.com/MAdesuyi94/Spotify-Audio-to-Text/blob/main/Images/GUI%20with%20Playlist%20Pulled.PNG)
+
+## 4: Click "Convert!" to convert audio to text
+## 5: Click "Info" to get the sentiment analysis
+![Sentiment Analysis](https://github.com/MAdesuyi94/Spotify-Audio-to-Text/blob/main/Images/GUI%20Wonderwall%20Sentiment%20Analysis.PNG)
+
+## 6: Click "Lyrics" to get the song lyrics
+![Lyrics](https://github.com/MAdesuyi94/Spotify-Audio-to-Text/blob/main/Images/GUI%20Wonderwall%20Lyrics.png)
